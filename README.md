@@ -36,4 +36,6 @@ This project is a student database management system implemented in C++ for Wind
 
 This project was developed by [kz306438]. If you have any questions or suggestions, feel free to contact me at [kz306438@gmail.com].
 
-    
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
