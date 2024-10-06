@@ -34,7 +34,7 @@ This project is a student database management system implemented in C++ for Wind
   
 ## Author
 
-This project was developed by [kz306438]. If you have any questions or suggestions, feel free to contact me at [kz306438@gmail.com].
+This project was developed by Kirill. If you have any questions or suggestions, feel free to contact me at kz306438@gmail.com.
 
 ## License
 
